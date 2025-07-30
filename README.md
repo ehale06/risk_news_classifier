@@ -127,7 +127,7 @@ This is a learning project — contributions, feedback, and ideas are welcome.
 Senior BI Analyst | M.S. Business Analytics (William & Mary)
 Focused on building AI/ML-powered data apps & automation tools.
 
-> Check out my LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+> Check out my LinkedIn: (https://www.linkedin.com/in/ethan-hale06/)
 
 ---
 
